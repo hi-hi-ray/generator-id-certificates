@@ -1,6 +1,8 @@
 {
   "organization_name": "",
   "organization_abbreviation": "",
+  "event_name": "",
   "quantity_of_characters": "",
-  "quantity_of_certificates": ""
+  "quantity_of_certificates": "",
+  "path_to_save_file": ""
 }
