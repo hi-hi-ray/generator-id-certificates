@@ -1,7 +1,7 @@
 # generator-id-certificates
-Generator of Numbers for Certificates
+Generator of Ids for Certificates
 
-## How To Use. :clipboard:
+## How To Use. :computer:
 
 - First of all, copy the file: **informations.json.example** and paste at the same folder, don't forget to rename it to **informations.json**  and fill all the informations.
 - Second and Last Step, Run the file application.py.
@@ -15,7 +15,7 @@ Running the application:
 
 This application will read your informations and create a text file with ids for you put on your certificates. You can display these ids wherever you want to prove that you generate that certificate.
 
-## Filling the Json. :pencil:
+## Filling the Json. :pencil2:
 
 - organization_name: Here you must insert the name of your organization.
 - organization_abbreviation: Here you must insert an abbreviation of your organization.
@@ -37,9 +37,9 @@ Don't forget to look the **Types** to check what we are expecting.
 
 --------------
 # generator-id-certificates
-Gerador de Números para Certificados
+Gerador de Ids para Certificados
 
-## Como Usar. :clipboard:
+## Como Usar. :computer:
 
 - Primeiro, copie o arquivo: **informations.json.example** e cole na mesma pasta, não se esqueça de renomeá-lo para **informations.json** e preencha todas as informações.
 - Segundo e Passo final, Rode o arquivo application.py.
@@ -53,7 +53,7 @@ Rodando a applicação:
 
 Esta aplicação irá ler as suas informações e criar um arquivo de texto com os ids para você colocar no seu certificado. Você pode exibir a lista destes ids onde você desejar provar que você gerou esse certificado.
 
-## Preenchendo Json. :pencil:
+## Preenchendo Json. :pencil2:
 
 - organization_name: Aqui você deve inserir o nome de sua organização.
 - organization_abbreviation: Aqui você deve inserir uma abreviação de sua organização.
