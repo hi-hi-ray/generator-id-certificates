@@ -1,5 +1,5 @@
 # generator-id-certificates
-Generator of Numbers for Certificates
+Generator of Ids for Certificates
 
 ## How To Use. :clipboard:
 
@@ -37,7 +37,7 @@ Don't forget to look the **Types** to check what we are expecting.
 
 --------------
 # generator-id-certificates
-Gerador de Números para Certificados
+Gerador de Ids para Certificados
 
 ## Como Usar. :clipboard:
 
