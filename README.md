@@ -3,11 +3,12 @@ Generator of Numbers for Certificates
 
 ## How To Use. :clipboard:
 
-First of all, copy the file: **informations.json.example** and paste at the same folder, don't forget to rename it to **informations.json**  and fill all the informations.
+- First of all, copy the file: **informations.json.example** and paste at the same folder, don't forget to rename it to **informations.json**  and fill all the informations.
+- Second and Last Step, Run the file application.py.
 
 ## What should do. :confetti_ball:
 
-This application will read your informations and create a text file with id's for you put on your certificate. You can display this id's wherever you want to prove that you generate that certificate.
+This application will read your informations and create a text file with ids for you put on your certificate. You can display this ids wherever you want to prove that you generate that certificate.
 
 ## Filling the Json. :pencil:
 
@@ -16,7 +17,7 @@ This application will read your informations and create a text file with id's fo
 - event_name: Here you must insert the name of your event.
 - quantity_of_characters: Here you must insert the length of the id that you desire. The id will be composed by the abbreviation-Random letters and numbers.
 - quantity_of_certificates: Here you must insert the quantity of certificates you want.
-- path_to_save_file: Here you must insert the path to where you want to be save the file with the genereted ids. For you convenience we generate a file with all the ids.
+- path_to_save_file: Here you must insert the path to where you want to be save the file with the generated ids. For your convenience we generate a file with all the ids.
 
 Don't forget to look the **Types** to check what we are expecting.
 
@@ -34,7 +35,9 @@ Don't forget to look the **Types** to check what we are expecting.
 Gerador de Números para Certificados
 
 ## Como Usar. :clipboard:
-Primeiro, copie o arquivo: **informations.json.example** e cole na mesma pasta, não se esqueça de renomeá-lo para **informations.json** e preencha todas as informações.
+
+- Primeiro, copie o arquivo: **informations.json.example** e cole na mesma pasta, não se esqueça de renomeá-lo para **informations.json** e preencha todas as informações.
+- Segundo e Passo final, Rode o arquivo application.py.
 
 ## O que deve fazer. :confetti_ball:
 
