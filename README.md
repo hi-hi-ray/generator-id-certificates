@@ -13,7 +13,7 @@ Running the application:
 
 ## What should do. :confetti_ball:
 
-This application will read your informations and create a text file with ids for you put on your certificate. You can display this ids wherever you want to prove that you generate that certificate.
+This application will read your informations and create a text file with ids for you put on your certificates. You can display these ids wherever you want to prove that you generate that certificate.
 
 ## Filling the Json. :pencil:
 
