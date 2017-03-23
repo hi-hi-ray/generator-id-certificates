@@ -1,15 +1,15 @@
 # generator-id-certificates
 Generator of Numbers for Certificates
 
-## How To Use :clipboard:
+## How To Use. :clipboard:
 
 First of all, copy the file: **informations.json.example** and paste at the same folder, don't forget to rename it to **informations.json**  and fill all the informations.
 
-## What should do :confetti_ball:
+## What should do. :confetti_ball:
 
 This application will read your informations and create a text file with id's for you put on your certificate. You can display this id's wherever you want to prove that you generate that certificate.
 
-## Filling the Json :pencil:
+## Filling the Json. :pencil:
 
 - organization_name: Here you must insert the name of your organization.
 - organization_abbreviation: Here you must insert an abbreviation of your organization.
@@ -20,7 +20,7 @@ This application will read your informations and create a text file with id's fo
 
 Don't forget to look the **Types** to check what we are expecting.
 
-## Types
+## Types. :books:
 
 - organization_name: String.
 - organization_abbreviation: String.
@@ -33,12 +33,12 @@ Don't forget to look the **Types** to check what we are expecting.
 # generator-id-certificates
 Gerador de Números para Certificados
 
-## Como Usar :clipboard:
+## Como Usar. :clipboard:
 Primeiro, copie o arquivo: **informations.json.example** e cole na mesma pasta, não se esqueça de renomeá-lo para **informations.json** e preencha todas as informações.
 
-## O que deve fazer :confetti_ball:
+## O que deve fazer. :confetti_ball:
 
-Esta aplicação irá ler as suas informações e criar um arquivo de texto com id para você colocar no seu certificado. Você pode exibir este id onde quer que você queira provar que você gerou esse certificado.
+Esta aplicação irá ler as suas informações e criar um arquivo de texto com id para você colocar no seu certificado. Você pode exibir este id onde você queira provar que você gerou esse certificado.
 
 ## Preenchendo Json :pencil:
 
@@ -50,7 +50,7 @@ Esta aplicação irá ler as suas informações e criar um arquivo de texto com 
 - path_to_save_file: Aqui você deve inserir o caminho para onde você quer salvar o arquivo com os ids gerados. Para sua conveniência geramos um arquivo com todos os ids.
 Não se esqueça de olhar o **Tipos** para verificar o que estamos esperando.
 
-## Tipos
+## Tipos. :books:
 
 - organization_name: String.
 - organization_abbreviation: String.
