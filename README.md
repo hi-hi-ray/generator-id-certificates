@@ -53,7 +53,7 @@ Exemplo:
 
 Esta aplicação irá ler as suas informações e criar um arquivo de texto com id para você colocar no seu certificado. Você pode exibir este id onde você queira provar que você gerou esse certificado.
 
-## Preenchendo Json :pencil:
+## Preenchendo Json. :pencil:
 
 - organization_name: Aqui você deve inserir o nome de sua organização.
 - organization_abbreviation: Aqui você deve inserir uma abreviação de sua organização.
