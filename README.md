@@ -6,9 +6,9 @@ Generator of Numbers for Certificates
 - First of all, copy the file: **informations.json.example** and paste at the same folder, don't forget to rename it to **informations.json**  and fill all the informations.
 - Second and Last Step, Run the file application.py.
 
-Example:
+Running the application:
 ```python
-    python run .\application\application.py
+    python ".\application\application.py"
 ```
 
 ## What should do. :confetti_ball:
@@ -44,14 +44,14 @@ Gerador de Números para Certificados
 - Primeiro, copie o arquivo: **informations.json.example** e cole na mesma pasta, não se esqueça de renomeá-lo para **informations.json** e preencha todas as informações.
 - Segundo e Passo final, Rode o arquivo application.py.
 
-Exemplo:
+Rodando a applicação:
 ```python
-    python run .\application\application.py
+    python ".\application\application.py"
 ```
 
 ## O que deve fazer. :confetti_ball:
 
-Esta aplicação irá ler as suas informações e criar um arquivo de texto com id para você colocar no seu certificado. Você pode exibir este id onde você queira provar que você gerou esse certificado.
+Esta aplicação irá ler as suas informações e criar um arquivo de texto com os ids para você colocar no seu certificado. Você pode exibir a lista destes ids onde você desejar provar que você gerou esse certificado.
 
 ## Preenchendo Json. :pencil:
 
